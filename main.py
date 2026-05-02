@@ -1,6 +1,4 @@
 import uos
-import utime
-import gc
 import extra_
 class shell_re:
     def __init__(self):

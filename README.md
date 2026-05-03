@@ -58,7 +58,7 @@ Contributions are very welcome – don’t worry if your code isn’t perfect. A
 
 ---
 
-## 中文
+## Chinese
 
 ### 概述
 
